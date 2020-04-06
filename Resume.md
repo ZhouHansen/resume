@@ -7,7 +7,7 @@
 - Location 位置: china 中国
 - GitHub: https://github.com/ZhouHansen
 - Stackoverflow: https://stackoverflow.com/
-- 微信: 15620633793
+- 微信: vm140706
 - Email: z308114274@gmail.com
 
 ## Career 职业生涯
